@@ -1,0 +1,14 @@
+body{
+    padding: 100px 0;
+}
+.logInPage{
+    border-radius: 5px;
+    box-shadow: 5px 5px 10px gray;
+    
+}
+#logInPage{
+    display: block;
+}
+#tansactionPage{
+    display: none;
+}
