@@ -1,5 +1,5 @@
 body{
-    padding: 100px 0;
+    padding: 80px 0;
 }
 .logInPage{
     border-radius: 5px;
@@ -11,4 +11,21 @@ body{
 }
 #tansactionPage{
     display: none;
+}
+.displayBox{
+    background-color: hotpink;
+    border-radius: 10px;
+}
+.deposite{
+    background-color: slateblue;
+}
+.withdraw{
+    background-color: lightsalmon;
+}
+.balance{
+    background-color: orange;
+}
+.numInput{
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px gray;
 }
